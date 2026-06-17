@@ -260,15 +260,3 @@
 
 ---
 
-## 参考来源
-
-- [CNBC - Charlie Munger's sharp wit at Berkshire meetings](https://www.cnbc.com/2023/11/28/charlie-mungers-sharp-wit-turned-berkshire-meetings-into-uproarious-affairs-heres-a-sample.html)
-- [Farnam Street - Charlie Munger: Wit and Wisdom](https://fs.blog/intellectual-giants/charlie-munger/)
-- [Talkative Man - Mungerisms: 100 Best Zingers](http://www.talkativeman.com/mungerisms-charlie-mungers-100-best-zingers-of-all-time/)
-- [Acquirer's Multiple - 14 Funniest Quotes](https://acquirersmultiple.com/2018/04/14-of-charlie-mungers-funniest-quotes/)
-- [Yahoo Finance - 44 memorable quotes](https://finance.yahoo.com/news/memorable-quotes-from-berkshire-hathaways-charlie-munger-225308303.html)
-- [Inc - 99 brilliant quotes](https://www.inc.com/bill-murphy-jr/99-brilliant-charlie-munger-quotes-that-explain-why-warren-buffett-trusted-him-so-much.html)
-- [Quartz - The folksy wit of Charlie Munger](https://qz.com/the-folksy-wit-of-charlie-munger-in-8-memorable-quotes-1851055990)
-- [Goodreads - Charles T. Munger Quotes](https://www.goodreads.com/author/quotes/236437.Charles_T_Munger)
-- [Gary Carmell - I Have Nothing to Add](https://www.garycarmell.com/i-have-nothing-to-add-charlie-munger/)
-- [Stripe Press - Poor Charlie's Almanack](https://press.stripe.com/poor-charlies-almanack)
